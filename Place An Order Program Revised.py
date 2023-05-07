@@ -1189,7 +1189,6 @@ class CUSTOMER_ORDER:
         self.order_before_tax_total_frame.pack_forget()
         self.order_tax_frame.pack_forget()
         self.order_total_price_frame.pack_forget()
-        self.cart_pay_frame.pack_forget()
         self.cart_pay_button_frame.pack_forget()
         self.order_paid()
         
